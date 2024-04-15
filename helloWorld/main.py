@@ -1,0 +1,1 @@
+print("The first time i playing python prog")
